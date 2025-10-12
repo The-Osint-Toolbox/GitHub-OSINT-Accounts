@@ -28,12 +28,17 @@
   <li><a href="https://github.com/cipher387">Cyber Detective</a></li>
   <li><a href="https://github.com/dutchosintguy">Dutch Osint Guy</a></li>
   <li><a href="https://github.com/GONZOsint">GONZOsint</a></li>
+  <li><a href="https://github.com/IvanGlinkin">Ivan Glinkin</a></li>
   <li><a href="https://github.com/jakecreps">Jake Creps</a></li>
+  <li><a href="https://github.com/jocephus"> Joe Gray</a></li>
   <li><a href="https://github.com/K2SOsint">KS2Osint</a></li>
   <li><a href="https://github.com/megadose/">Megadose</a></li>
   <li><a href="https://github.com/mxrch/">Mxrch</a></li>
   <li><a href="https://github.com/osintambition">OSINT Ambition</a></li>
+  <li><a href="https://github.com/Buddhsen-tripathi/OSINT-Kit">OSINT-Kit</a></li>
   <li><a href="https://github.com/paulpogoda">Paul Pogoda</a></li>
+  <li><a href="https://github.com/Ph055a">Ph055a</a></li>
+  <li><a href="https://github.com/C3n7ral051nt4g3ncy">Tactical Osint</a></li>
   <li><a href="https://github.com/orgs/TacticalOsintAcademy/repositories">Tactical Osint Academy</a></li>
   <li><a href="https://github.com/WebBreacher">Webreacher</a></li>
 </ul>  
